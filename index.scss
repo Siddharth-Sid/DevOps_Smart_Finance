@@ -1,0 +1,26 @@
+@use "../../utils/colors";
+
+.container {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.fields-form {
+    padding-left: 20%;
+    text-align: center;
+    margin-top: 10px;
+    padding-right: 20%;
+}
+
+.field {
+    padding-top: 10px;
+}
+
+.submit-button {
+    padding-top: 25px;
+}
+
+.title {
+    font-size: 30px;
+    color: colors.$aquamarine;
+}
